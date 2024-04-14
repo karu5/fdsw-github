@@ -1,15 +1,22 @@
 body {
   font-family: "Raleway", sans-serif;
+  background-color: #cdffff;
 }
 
-/* Hero Section */
+/* TITULO */
+.nombre {
+  padding-top: 2rem;
+}
 
-#Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+/* Foto principal */
+
+#Foto-de-fondo {
+  background-image: url(../img/foto1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
 }
+
 
 /* Mis trabajos */
 
